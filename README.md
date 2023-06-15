@@ -1,6 +1,9 @@
 # ECOM-Backend
 
-
+##About
+This is my attempt at building the backend for an ecommerce website.
+Project was built using express, mysql, and equilize and tested with insomnia
+I wasn't able to get all routes working and am hoping to come back and finish at a later date
 
 
 
